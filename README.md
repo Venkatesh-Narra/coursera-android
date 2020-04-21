@@ -1,4 +1,4 @@
-coursera-android
-================
+venky-android-developement-world
+================================
 
-Source Code for Android Course Example Applications
+Android Applications
